@@ -15,7 +15,7 @@ public class OpenApiConfig {
                 .info(new Info()
                         .title("Todo App API Documentation")
                         .version("1.0.0")
-                        .description("RESTful API documentation for the Todo Application project. This API supports user management and todo item operations.") // 💡 API Açıklaması
+                        .description("RESTful API documentation for the Todo Application project. This API supports user management and todo item operations.") // 💡 API Description
                         .termsOfService("http://localhost:8080/terms")
                         .license(new License().name("Apache 2.0")
                                 .url("http://springdoc.org")));
