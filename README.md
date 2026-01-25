@@ -73,7 +73,7 @@ Make sure to create your own `api-values.properties` file and provide the requir
 
 ## ▶️ How to Run
 
-1. Clone the repository: https://github.com/boss-tech-01/todoapp.git
+1. Clone the repository: https://github.com/mohammad-eliyas-ahmadi/todoapp.git
 2. Configure MongoDB (local or cloud)
 3. Create `api-values.properties` based on the example file
 4. Run the application
